@@ -3,7 +3,6 @@
 # Halloween and Christmas Debate 
 This repository is to present an argument over Halloween vs. Christmas and which one is theoretically superior. 
 
-<<<<<<< HEAD
 ## Installation
 Simply download the files!
 
@@ -25,7 +24,5 @@ TODO: Write the history
 Xaviere Hanbury, Marco Deluca
 
 License: MIT
-=======
 # Installation
 No Installation Required - Download Files.
->>>>>>> 1161fab7ff7b686be858dfdc1975a52aaa34ed8c
