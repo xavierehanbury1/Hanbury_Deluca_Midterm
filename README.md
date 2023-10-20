@@ -2,4 +2,4 @@
 This repository is to present an argument over Halloween vs. Christmas and which one is theoretically superior. 
 
 # Installation
-This should be a description of how to install the app.
+No Installation Required - Download Files.
